@@ -1,0 +1,4 @@
+ Download the pre-trained model and place it in the project root:
+
+1. Download: [best_model_Unidirectional_LSTM.h5] drive.google.com/file/d/1JgiUHu5Bpw0SwYiZBGno1MZuFs0SFkmw/view?usp=sharing
+2. Place in: `Proactive_Rec_Violo/model/ best_model_Unidirectional_LSTM.h5`
